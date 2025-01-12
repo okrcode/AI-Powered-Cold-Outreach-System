@@ -5,8 +5,8 @@ import json
 from googletrans import Translator
 import time
 
-# API key (replace with your actual API key)
-api_key = "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"
+#   remove in API key space and run it 
+api_key = "xkeysib-e9d880ce13a1f04b91dc28bd2f1   20f7c3052376bc967376deb4fbe2354825911-ex3OjChSufIhrerh"
 
 # Configure API key authorization
 configuration = sib_api_v3_sdk.Configuration()
