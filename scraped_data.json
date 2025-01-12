@@ -1,0 +1,16 @@
+[
+    {
+        "hotel_name": "Wirtz & Lück Wohnbau GmbH",
+        "source_url": "https://www.gelbeseiten.de/gsbiz/57311b9f-cbb4-4bf7-af7d-eb0b31af489c",
+        "website": "http://www.wirtz-lueck.de",
+        "email_address": "info@wirtz-lueck.de",
+        "phone_num": "N/A"
+    },
+    {
+        "hotel_name": "Hachinger Bau GmbH",
+        "source_url": "https://www.gelbeseiten.de/gsbiz/1048707c-900a-4415-ad5b-6f143c981d1f",
+        "website": "https://www.hachingerbau.de",
+        "email_address": "hb@hachingerbau.de",
+        "phone_num": "089 6 73 59 53 53"
+    }
+]
